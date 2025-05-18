@@ -15,6 +15,7 @@
     JWT_EXPIRES_IN="2m"  # <-- This sets the 2-minute session!
     ```
 3.  Type `npm install` to get all the code bits it needs.
+4.  then `npm run dev`
 
 **Now the Frontend:**
 1.  Go into the `jetpay/frontend` folder in your terminal.
@@ -23,6 +24,7 @@
     NEXT_PUBLIC_API_URL=http://localhost:5001/api
     ```
 3.  Type `npm install` here too.
+4.  Then `npm run dev`
 
 **Let's Go!**
 1.  **Start the backend:** In your `jetpay/backend` terminal, type `npm run dev`. You should see messages that it's running on port 5001.
