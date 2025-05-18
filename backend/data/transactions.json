@@ -1,0 +1,46 @@
+[
+  {
+    "id": "76dc36f3-1197-421d-a706-11f1dc4eb5b7",
+    "userId": "8e2418d9-4b12-46fe-b2bd-94439aea4ca7",
+    "type": "DEPOSIT",
+    "amount": 100,
+    "timestamp": "2025-05-18T17:24:40.467Z",
+    "status": "COMPLETED",
+    "description": "Deposit of 100 INR",
+    "isFlagged": false,
+    "flagReason": null
+  },
+  {
+    "id": "cd82e5f2-ce9a-42e5-8f86-6e54a540c87e",
+    "userId": "8e2418d9-4b12-46fe-b2bd-94439aea4ca7",
+    "type": "WITHDRAW",
+    "amount": 50,
+    "timestamp": "2025-05-18T17:24:47.749Z",
+    "status": "COMPLETED",
+    "description": "Withdrawal of 50 INR",
+    "isFlagged": false,
+    "flagReason": null
+  },
+  {
+    "id": "cd42cbcd-eb04-4f95-83b6-010489cb65f0",
+    "userId": "2dcea08d-517e-41fd-8512-bddd013e0766",
+    "type": "DEPOSIT",
+    "amount": 13333,
+    "timestamp": "2025-05-18T19:49:27.117Z",
+    "status": "COMPLETED",
+    "description": "Deposit of 13333 INR",
+    "isFlagged": false,
+    "flagReason": null
+  },
+  {
+    "id": "f2957d15-2c5c-475f-b6b2-b3ffb3b81ad4",
+    "userId": "8da9809a-5ef2-4c6e-be77-4934634a7e6b",
+    "type": "DEPOSIT",
+    "amount": 230000,
+    "timestamp": "2025-05-18T21:30:56.597Z",
+    "status": "COMPLETED",
+    "description": "Deposit of 230000 INR",
+    "isFlagged": false,
+    "flagReason": null
+  }
+]

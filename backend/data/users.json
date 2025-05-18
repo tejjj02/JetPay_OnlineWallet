@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c1a7a810-0a30-4f1f-8c8a-3e77d1f7e2b1",
+    "username": "testuser1",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy"
+  },
+  {
+    "id": "d2b8b921-1b41-5g2g-9d9b-4f88e2g8f3c2",
+    "username": "testuser2",
+    "passwordHash": "$2a$10$examplehashedpassword2"
+  },
+  {
+    "id": "8e2418d9-4b12-46fe-b2bd-94439aea4ca7",
+    "username": "testuser12",
+    "passwordHash": "$2b$10$ttBltLgj7MO59M1dZoeuz.zIYleHr7mTGGVl6VYULc7o1l1AaSyqG",
+    "loginAttempts": 3,
+    "isLocked": true
+  },
+  {
+    "id": "2dcea08d-517e-41fd-8512-bddd013e0766",
+    "username": "testuser01",
+    "passwordHash": "$2b$10$VXOSZ2jxWSBeKCQkBBK4r.Nu6nDAvv1OUNKYoedKXnhF1UH5k.LRm",
+    "loginAttempts": 0,
+    "isLocked": false,
+    "lockTime": null
+  },
+  {
+    "id": "8da9809a-5ef2-4c6e-be77-4934634a7e6b",
+    "username": "testuser03",
+    "passwordHash": "$2b$10$VoHpJZPwJbg9TLmBpg8ipOW/iOGnm1wkRKkfWxfLoZ/ON8ELvpq7S",
+    "loginAttempts": 0,
+    "isLocked": false,
+    "lockTime": null
+  }
+]

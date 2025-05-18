@@ -1,0 +1,27 @@
+[
+  {
+    "userId": "c1a7a810-0a30-4f1f-8c8a-3e77d1f7e2b1",
+    "balance": 1000,
+    "currency": "INR"
+  },
+  {
+    "userId": "d2b8b921-1b41-5g2g-9d9b-4f88e2g8f3c2",
+    "balance": 500,
+    "currency": "INR"
+  },
+  {
+    "userId": "8e2418d9-4b12-46fe-b2bd-94439aea4ca7",
+    "balance": 50,
+    "currency": "INR"
+  },
+  {
+    "userId": "2dcea08d-517e-41fd-8512-bddd013e0766",
+    "balance": 13333,
+    "currency": "INR"
+  },
+  {
+    "userId": "8da9809a-5ef2-4c6e-be77-4934634a7e6b",
+    "balance": 230000,
+    "currency": "INR"
+  }
+]
