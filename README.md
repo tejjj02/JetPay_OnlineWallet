@@ -32,8 +32,8 @@
 ## How to Use It:
 
 **Default Login (if you use my sample data):**
-*   Username: `testuser1`
-*   Password: `password123`
+*   Username: `testuser03`
+*   Password: `@pass123`
 
 **Making a New Account:**
 1.  Go to the "Register" page.
@@ -43,17 +43,3 @@
 **Remember the 2-Minute Session!**
 If you're using the app and step away, or it's been more than 2 minutes, you'll be logged out automatically. You'll just need to log back in.
 
-## Things I Might Add Later (Or You Could!):
-
-*   Use a real database instead of JSON files (like PostgreSQL or MongoDB). That'd be much better for a "real" app.
-*   Make a proper list of all the API "addresses" (endpoints).
-*   Smarter fraud checks.
-*   Different types of users (like a special "admin" user).
-*   More security stuff, like two-factor authentication.
-*   Better error messages.
-*   Actual tests to make sure everything works right.
-*   And definitely make the website look even cooler!
-
----
-
-Hope this helps you understand what I've built!
